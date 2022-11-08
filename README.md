@@ -1,6 +1,6 @@
 # Projection-Pursuit-Analysis
 
-### Projection Pursuit Clustering 
+### Clustering 
 
 
-### Projection Pursuit Regression
+### Regression
